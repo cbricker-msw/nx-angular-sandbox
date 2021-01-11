@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "angular-sandbox-32315": {
+      "hosting": {
+        "reactive-example": [
+          "angular-sandbox-32315"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "angular-sandbox-32315"
+  }
+}
